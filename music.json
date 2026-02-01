@@ -1,23 +1,19 @@
 {
-  "albums": [
-    {
-      "title": "Notification Altercation",
-      "coverURL": "https://raw.githubusercontent.com/bigmaerk/KDDB/refs/heads/main/cover_REAL_final.jpg?token=GHSAT0AAAAAADHIKCMBQWO4DMF4GYQ654RW2L6YMNA",
-      "releaseDate": "2/2/2026",
-      "recordLabel": "Barbaloo Records",
-      "tracks": [
-        "Filler",
-        "Grocery Bacchanalia",
-        "Waltz of The Fancy",
-        "500 Cigarettes",
-        "Pirates vs Ninjas",
-        "Aftermath",
-        "My Car is Really Scary",
-        "Half-Life 2",
-        "Fall is Ending",
-        "All Year",
-        "Town Square"
-      ]
-    }
-  ]
+    "title": "Notification Altercation",
+    "coverURL": "https://raw.githubusercontent.com/bigmaerk/KDDB/refs/heads/main/cover_REAL_final.jpg?token=GHSAT0AAAAAADHIKCMBQWO4DMF4GYQ654RW2L6YMNA",
+    "releaseDate": "2/2/2026",
+    "recordLabel": "Barbaloo Records",
+    "tracks": [
+      "Filler",
+      "Grocery Bacchanalia",
+      "Waltz of The Fancy",
+      "500 Cigarettes",
+      "Pirates vs Ninjas",
+      "Aftermath",
+      "My Car is Really Scary",
+      "Half-Life 2",
+      "Fall is Ending",
+      "All Year",
+      "Town Square"
+    ]
 }
