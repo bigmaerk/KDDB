@@ -1,6 +1,6 @@
 {
   "albums": {
-    {
+    [
       "title": "Notification Altercation",
       "coverURL": "https://raw.githubusercontent.com/bigmaerk/KDDB/refs/heads/main/cover_REAL_final.jpg?token=GHSAT0AAAAAADHIKCMBQWO4DMF4GYQ654RW2L6YMNA",
       "releaseDate": "2/2/2026",
@@ -18,6 +18,6 @@
         "All Year",
         "Town Square"
       ]
-    }
+    ]
   }
 }
